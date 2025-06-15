@@ -1,5 +1,9 @@
 # Intellistar
-<h1>May 3rd 2025: Life hasn't been easy for me, I've been focusing more on my walk with my Lord & Savior over the last couple of months. </h1>
+<h1>June 15th, 2025:</h1>
+<p>I regret to inform that this project has been discontinued from this point forward, as I haven't been motiviated to work on this project. I also have other projects I am working on currently, and my own personal life has been in the way. Thank you for all your support and kindness through this project.
+
+Isaiah 40:8
+<i>"The grass withers, the flower fades, But the word of our God stands forever.”</i></p>
 Inspired by the <a href="https://github.com/buffbears/Weatherscan">buffbears/Weatherscan</a> Project. This project was made by me.
  <h1 align="center">This is the Intellistar project!</h1>
  <h1>A big credit to our contributors:</h1>
