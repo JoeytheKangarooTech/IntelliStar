@@ -42,7 +42,7 @@ var almanacstationname = "" /* The Name that appears on the Almanac Slide. Leave
 you want to automatically set the name of the station */
 var units = "e" // The displayed. e is imperial, m is metric, h is hybrid, s is (the) kelvin. Default is e.
 // This is the message that aUnits ppears on the LDL Bar.
-var marquee_message = "Are you interested in TWC, EAS or sirens? Well, subscribe to JoeytheKangarooTech today!"
+var marquee_message = "Are you interested in fire alarms, EAS, elevators, TWC, landlines, clocks, DVRs, or operating systems? Well, subscribe to JoeytheKangarooTech today!"
 
 
  var country = "US" // Two Letter Country Code. Some Countries are not supported. https://www.ibm.com/docs/en/environmental-intel-suite?topic=apis-alert-details
