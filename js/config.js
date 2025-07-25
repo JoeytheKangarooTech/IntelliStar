@@ -10,13 +10,13 @@ var api_key = `e1f10a1e78da46f5b10a1e78da96f525`;
 automatictransition = "true"
 
 // Time Zone Configuration.
-var timezone = "America/Chicago"
+var timezone = "America/Detroit"
 
 
 // Location Configuration
 
-var lat = "30.4213354" // Latitude. You can head over to www.google.com/maps/ and right click on a spot on the map for your cordinates.
- var lon = "-87.2169984" // Longitude.
+var lat = "43.019934" // Latitude. You can head over to www.google.com/maps/ and right click on a spot on the map for your cordinates.
+ var lon = "-83.5023848" // Longitude.
 
 
  // Icon Configuration
@@ -36,13 +36,13 @@ var lat = "30.4213354" // Latitude. You can head over to www.google.com/maps/ an
  */
 
         // Misc Configuration
-var locationn =  "Pensacola" // Your Location. Leave Blank for autolocation.
-var forecastlocation = `Pensacola Downtown` // The Location that appears on the forecast. You can do ${locationn} for the city name above
+var locationn =  "Davison" // Your Location. Leave Blank for autolocation.
+var forecastlocation = `Davison` // The Location that appears on the forecast. You can do ${locationn} for the city name above
 var almanacstationname = "" /* The Name that appears on the Almanac Slide. Leave blank if 
 you want to automatically set the name of the station */
 var units = "e" // The displayed. e is imperial, m is metric, h is hybrid, s is (the) kelvin. Default is e.
 // This is the message that aUnits ppears on the LDL Bar.
-var marquee_message = "Ah yeahh, let's hope it snow's in Pensacola lol"
+var marquee_message = "Are you interested in TWC, EAS or sirens? Well, subscribe to JoeytheKangarooTech today!"
 
 
  var country = "US" // Two Letter Country Code. Some Countries are not supported. https://www.ibm.com/docs/en/environmental-intel-suite?topic=apis-alert-details
